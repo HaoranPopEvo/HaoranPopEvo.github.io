@@ -1,31 +1,54 @@
-<h1>Haoran Wu</h1>
-
-
-<h2>PERSONAL DETAILS</h2>
+<h1>PERSONAL DETAILS</h1>
 <ul>
-	<li>MSc in Biodiversity, Conservation and Management, Univeristy of Oxford – Since 2022</li>
-	<li>Research Member, CN Green-Light Year Youth Research – 2020–2021</li>
-	<li>Student Research Assistant, Institute of Botany, Chinese Academy of Sciences – 2019</li>
-	<li>Bsc in Ecology, CN Zhejiang Univeristy – 2018–2022</li>
-	<li><b>E-mail: </b>haoran.wu@wolfson.ox.ac.uk</li>
-	<li><b>Alternative E-mail: </b>haoranwu@zju.edu.cn<br></li>
-	<li><b>My Ecology Blogs: </b><a href="https://www.jianshu.com/u/10ab42c0c9e8">https://www.jianshu.com/u/10ab42c0c9e8</a> (in Chinese)</li>
-	
+	<li>
+		MSc in Biodiversity, Conservation and Management, Univeristy of Oxford – Since 2022
+	</li>
+	<li>
+		Research Member, CN Green-Light Year Youth Research – 2020–2021
+	</li>
+	<li>
+		Student Research Assistant, Institute of Botany, Chinese Academy of Sciences – 2019
+	</li>
+	<li>
+		Bsc in Ecology, CN Zhejiang Univeristy – 2018–2022
+	</li>
+	<li>
+		<b>HOBBIES: </b>Mathematics; Reading; Blogging; Photography; Travelling
+	</li>
+	<li>
+		<b>E-MAIL: </b><a href="haoran.wu@wolfson.ox.ac.uk">haoran.wu@wolfson.ox.ac.uk</a>
+	</li>
+	<li>
+		<b>ALTERNATIVE E-MAIL: </b><a href="haoranwu@zju.edu.cn">haoranwu@zju.edu.cn</a>
+	</li>
+	<li>
+		<b>MY ECOLOGY BLOGS: </b><a href="https://www.jianshu.com/u/10ab42c0c9e8">https://www.jianshu.com/u/10ab42c0c9e8</a> (in Chinese)
+	</li>
+	<li>
+		<b>RESEARCHGATE: </b><a href="https://www.researchgate.net/profile/Haoran-Wu-13">https://www.researchgate.net/profile/Haoran-Wu-13</a>
+	</li>
+</ul>
+
+
+<hr>
+
+
+<h1>RESEARCH INTEREST</h1>
+<ul>
+	<li>
+		<b>DISCIPLINES: </b>Theoretical Ecology; Quantitative Ecology; Population Genetics
+	</li>
+	<li>
+		<b>SKILLS: </b> Developing R Packages; Individual-Based Models; Ordinary Differential Equations; Programming (C++, Python, HTML/CSS/JS/PHP, MySQL, etc.); Bioinformatics (sequence comparison, phylogenetics, etc.); GIS (ArcGIS, QGIS); Remote Sensing (UAV, Satellite Imagery); Wet Lab Experiments (DNA extraction, PCR, SDS-Page, Western-blot, etc.)
+	</li>
 </ul>
 
 
 
-
-<h2>RESEARCH INTEREST</h2>
-<p>
-	I got a Bachelor’s degree in Ecology at CN Zhejiang University, and my aim in life is to be a theoretical ecologist. I have a particular interest in why population dynamics can be so different, and how they contribute to complex patterns in nature. Under what conditions would a community become stable? To what extent can we identify the structural complexity of a large system? For example, chaotic dynamics have been found in many population time series. Why this chaos exists and what it means to us? In addition, I also work on developing and applying quantitative methods for the study of ecology and evolution. During my bachelor’s program, I developed an R package ‘KINNET’ for parentage analysis and a package ‘expmeasure’ for visualisation.
-</p>
-<p><b>KEY WORDS: </b>Theoretical Ecology; Quantitative Ecology; Population Genetics</p>
+<hr>
 
 
-
-
-<h2>PUBLICATIONS</h2>
+<h1>PUBLICATIONS</h1>
 <p>
 	Lin, Han-Yang, Li, Wen-Hao, Lin, Chen-Feng, <b>Wu, Hao-Ran</b> & Zhao, Yun-Peng* (2022). International biological flora: <i>Ginkgo biloba</i>. Journal of Ecology, 110, 951– 982. https://doi.org/10.1111/1365-2745.13856
 </p>
@@ -37,9 +60,9 @@
 </p>
 
 
+<hr>
 
-
-<h2>UNPUBLISHED MANUSCRIPTS</h2>
+<h1>UNPUBLISHED MANUSCRIPTS</h1>
 <p>
 	<b>Wu Hao-Ran</b>, Lin Han-Yang, Yuan He-Fan, Yan Zhi-Jian, Zhao Yun-Peng*. Effect of seed dispersal on the spatial patterns of <i>Ginkgo biloba</i> in refuge population.
 </p>
@@ -60,9 +83,9 @@
 </p>
 
 
+<hr>
 
-
-<h2>CURRENT RESEARCH</h2>
+<h1>CURRENT RESEARCH</h1>
 
 <p><b>Analysing Community Dynamics: Equilibrium, Stability and Beyond</b></p>
 <ul>
@@ -113,7 +136,11 @@
 
 
 
-<h2>PAST PROJECTS</h2>
+<hr>
+
+
+
+<h1>PAST PROJECTS</h1>
 <p><b>Increased assignment rates of parentage assignment obtained by resampling populations</b>, 2022</p>
 <ul>
 	<li>
@@ -245,10 +272,13 @@
 </ul>
 
 
-<h2>TRANING EXPERIENCE</h2>
+<h1>TRANING EXPERIENCE</h1>
 <ul>
 	<li>
 		Biophysical Models in Ecosystem Analysis, The 8th East China Normal Univeristy Summer School on "Methods in Ecology", Nov 15-19, 2021
+	</li>
+	<li>
+		WEHI Bioinformatics Masterclass 2021, Aug 24-27, 2021
 	</li>
 	<li>
 		Measuring Biodiveristy, The 7th East Chine Normal Univeristy Summer School on "Methods in Ecology", Aug 23-28, 2021
