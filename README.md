@@ -25,6 +25,9 @@
 		<b>MY ECOLOGY BLOGS: </b><a href="https://www.jianshu.com/u/10ab42c0c9e8">https://www.jianshu.com/u/10ab42c0c9e8</a> (in Chinese)
 	</li>
 	<li>
+		<b>MY PROGRAMMING BLOGS: </b><a href="https://blog.csdn.net/Robby_Wu?type=blog">https://blog.csdn.net/Robby_Wu?type=blog</a> (in Chinese)
+	</li>
+	<li>
 		<b>RESEARCHGATE: </b><a href="https://www.researchgate.net/profile/Haoran-Wu-13">https://www.researchgate.net/profile/Haoran-Wu-13</a>
 	</li>
 </ul>
@@ -130,7 +133,7 @@
 		<b>Supervisor: </b>Zhao Li, PostDoc in School of Environment, CN Tsinghua University
 	</li>
 	<li>
-		<b>Expectation: </b>A review to be published.<\\
+		<b>Expectation: </b>A review to be published.
 	</li>
 </ul>
 
@@ -153,7 +156,7 @@
 		<b>Supervisor: </b>Yun-Peng Zhao, Professor in College of Life Sciences, CN Zhejiang University
 	</li>
 	<li>
-		<b>Publications: </b> Research article <i>Increased assignment rates of parentage assignment obtained by resampling populations</i> in preparation; R script RCERVUS to be published online</b>
+		<b>Publications: </b> Research article <i>Increased assignment rates of parentage assignment obtained by resampling populations</i> in preparation; R script RCERVUS to be published online
 	</li>
 </ul>
 
