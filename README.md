@@ -1,3 +1,10 @@
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+
 <h1>PERSONAL DETAILS</h1>
 <ul>
 	<li>
@@ -13,7 +20,7 @@
 		Bsc in Ecology, CN Zhejiang Univeristy – 2018–2022
 	</li>
 	<li>
-		**HOBBIES: **Mathematics; Reading; Blogging; Photography; Travelling
+		<b>HOBBIES: </b>Mathematics; Reading; Blogging; Photography; Travelling
 	</li>
 	<li>
 		<b>E-MAIL: </b><a href="haoran.wu@wolfson.ox.ac.uk">haoran.wu@wolfson.ox.ac.uk</a>
