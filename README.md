@@ -1,10 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-
 <h1>PERSONAL DETAILS</h1>
 <ul>
 	<li>
