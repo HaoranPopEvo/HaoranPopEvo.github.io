@@ -13,7 +13,7 @@
 		Bsc in Ecology, CN Zhejiang Univeristy – 2018–2022
 	</li>
 	<li>
-		<strong>HOBBIES: </strong>Mathematics; Reading; Blogging; Photography; Travelling
+		**HOBBIES: **Mathematics; Reading; Blogging; Photography; Travelling
 	</li>
 	<li>
 		<b>E-MAIL: </b><a href="haoran.wu@wolfson.ox.ac.uk">haoran.wu@wolfson.ox.ac.uk</a>
