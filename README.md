@@ -56,7 +56,7 @@
 	Lin, Han-Yang, Li, Wen-Hao, Lin, Chen-Feng, <b>Wu, Hao-Ran</b> & Zhao, Yun-Peng* (2022). International biological flora: <i>Ginkgo biloba</i>. Journal of Ecology, 110, 951– 982. https://doi.org/10.1111/1365-2745.13856
 </p>
 <p>
-	<b>Wu, Hao-Ran</b>, Peng, Chen, Ming, Chen* (2022). Rethinking the complexity and uncertainty of spatial networks applied to forest ecology. Scientific Reports, 12, 15917. https://doi.org/10.1038/s41598-022-16485-9
+	<b>Wu, Hao-Ran</b>, Peng, Chen, Chen, Ming* (2022). Rethinking the complexity and uncertainty of spatial networks applied to forest ecology. Scientific Reports, 12, 15917. https://doi.org/10.1038/s41598-022-16485-9
 </p>
 <p>
 	..., <b>Wu, Hao-Ran</b>, ... (2022). Nature capital and nature-based solutions: Policies and practices in China and abroad. China Environment Publishing Group, Beijing (to be published).
@@ -82,7 +82,7 @@
 	<b>Wu Hao-Ran</b>1+, Ding Ying1+, Li Jian-Hao, Zhou Lin-Rui, Bai Yong-Fei*. A study on the authenticity of forest vegetation in Changbai Mountain Nature Reserve (in Chinese with English abstract).
 </p>
 <p>
-	<b>Wu Hao-Ran</b>, Peng Chen, Chen Wei-Jia, Yu-Bo. Effects of island network structure on plant communities: A case in Thousand Island Lake.
+	<b>Wu Hao-Ran</b>, Peng Chen, Chen Wei-Jia, Yu-Bo. Effects of island network structure on plant communities: A case in Thousand Island Lake. (in Chinese with English abstract).
 </p>
 
 
@@ -93,13 +93,13 @@
 <p><b>Analysing Community Dynamics: Equilibrium, Stability and Beyond</b></p>
 <ul>
 	<li>
-		<b>Objective: </b>Population and community dynamics have a pivotal role in shaping various ecological and evolutionary patterns. Topics such as equilibrium, stability, and sensitivity, which are mostly built up on theories of ordinary differential equations (ODEs), are foundamental properties of a ecological community and are indispenable part of theories like niche-assembly rules. But currently few tools can  help to study ecological communities with ODE theories in a comprehensive manner. The current study seeks to present the R package 'ecode', which provides numerical solutions on equilibrium, stability, and sensitivity problems of any ecological communities.
+		<b>OVERVIEW: </b>Population and community dynamics have a pivotal role in shaping various ecological and evolutionary patterns. Topics such as equilibrium, stability, and sensitivity, which are mostly built up on theories of ordinary differential equations (ODEs), are foundamental properties of a ecological community and are indispenable part of theories like niche-assembly rules. But currently few tools can  help to study ecological communities with ODE theories in a comprehensive manner. The current study seeks to present the R package 'ecode', which provides numerical solutions on equilibrium, stability, and sensitivity problems of any ecological communities.
 	</li>
 	<li>
-		<b>Participants: </b><b>Hao-Ran Wu</b>
+		<b>PARTICIPANT: </b><b>Hao-Ran Wu</b>
 	</li>
 	<li>
-		<b>Expectation: </b> An article published in Biorxiv (due to funding issues); An R package 'ecode' which will be uploaded on Github pages; <b>any collaborations are welcomed.</b>
+		<b>EXPECTATION: </b> An article published in Biorxiv (due to funding issues); An R package 'ecode' which will be uploaded on Github pages; <b>any collaborations are welcomed.</b>
 	</li>
 </ul>
 
@@ -107,16 +107,16 @@
 <p><b>Biophysical Models in R</b></p>
 <ul>
 	<li>
-		<b>Objective: </b>Following the book <i>Biophysical Models and Applications in Ecosystem Analysis</i> by Ji-quan Chen, this project develops an R package for biophysical modelers. The package contains set of functions to model various biophysial variables such as diel air temperature, solar radiation and wind speed, calculate ecosystem production, respiration, evapotranspiration, and global warming potentials.
+		<b>OVERVIEW: </b>Following the book <i>Biophysical Models and Applications in Ecosystem Analysis</i> by Ji-quan Chen, this project develops an R package for biophysical modelers. The package contains set of functions to model various biophysial variables such as diel air temperature, solar radiation and wind speed, calculate ecosystem production, respiration, evapotranspiration, and global warming potentials.
 	</li>
 	<li>
-		<b>Participants: </b><b>Hao-Ran Wu</b>, Ji-quan Chen*
+		<b>PARTICIPANT: </b><b>Hao-Ran Wu</b>, Ji-quan Chen*
 	</li>
 	<li>
-		<b>Supervisor: </b>Ji-quan Chen, Professor in Landscape Ecology & Ecosystem Science (LEES), Michigan State Univeristy
+		<b>SUPERVISOR: </b>Ji-quan Chen, Professor in Landscape Ecology & Ecosystem Science (LEES), Michigan State Univeristy
 	</li>
 	<li>
-		<b>Expectation: </b>An R package and a tutorial book.
+		<b>EXPECTATION: </b>An R package and a tutorial book.
 	</li>
 </ul>
 
@@ -124,16 +124,16 @@
 <p><b>Terrestrial Vegetation Seasonality in Southern Hemisphere</b></p>
 <ul>
 	<li>
-		<b>Objective: </b>Vegetation seasonality is fundamental to the study of ecosystem health and functions, the response of plants to climate change, and biodiveristy conservation. Unfortunately, very little is known about the vegetation seasonality in southern hemisphere due to the lack of long-term monitoring work and complicated seasonal dynamics. This review summarises quantitative methods to estimate land-surface phenology, drivers on the vegetation seasonality in southern lands, long-term monitoring work in southern hemisphere, and develops a new method to detect places with multiple seasonal cycles.
+		<b>OBJECTIVE: </b>Vegetation seasonality is fundamental to the study of ecosystem health and functions, the response of plants to climate change, and biodiveristy conservation. Unfortunately, very little is known about the vegetation seasonality in southern hemisphere due to the lack of long-term monitoring work and complicated seasonal dynamics. This review summarises quantitative methods to estimate land-surface phenology, drivers on the vegetation seasonality in southern lands, long-term monitoring work in southern hemisphere, and develops a new method to detect places with multiple seasonal cycles.
 	</li>
 	<li>
-		<b>Participants: </b><b>Hao-Ran Wu</b>, Zhan-Zhang Cai, Zhao Li*
+		<b>PARTICIPANT: </b><b>Hao-Ran Wu</b>, Zhan-Zhang Cai, Zhao Li*
 	</li>
 	<li>
-		<b>Supervisor: </b>Zhao Li, PostDoc in School of Environment, CN Tsinghua University
+		<b>SUPERVISOR: </b>Zhao Li, PostDoc in School of Environment, CN Tsinghua University
 	</li>
 	<li>
-		<b>Expectation: </b>A review to be published.
+		<b>EXPECTATION: </b>A review to be published.
 	</li>
 </ul>
 
@@ -147,32 +147,32 @@
 <p><b>Increased assignment rates of parentage assignment obtained by resampling populations</b>, 2022</p>
 <ul>
 	<li>
-		<b>Overview: </b>Parentage analysis provides indispensable information for the study of ecology and evolution. However, many parentage algorithms suffer from low assignment rates, especially when the number of molecular markers is less than adequate, or when prior knowledge about the study population is limited. The present study developed a novel pipeline, which uses resampling methods as an external extension, to achieve higher assignment rates of parentage analysis. The R script provided by this study helps CERVUS, one of the commonly used parentage software, to find more potential father–mother–offspring triads. This study highlights the importance of incorporating resampling methods into parentage algorithms. The framework of resampling methods is applicable to other parentage software to find more potential parent–offspring relationships
+		<b>OVERVIEW: </b> Parentage analysis provides indispensable information for the study of ecology and evolution. However, many parentage algorithms suffer from low assignment rates, especially when the number of molecular markers is less than adequate. The present study developed a novel pipeline, which uses resampling methods as an external extension, to achieve higher assignment rates of parentage analysis. The R script provided by this study helps CERVUS, one of the commonly used parentage software, to find more potential father–mother–offspring triads. Simulations showed that the idea of resampling offers great potential to find father–mother–offspring triads that are overlooked by CERVUS, while keeps the same level of statistical confidence. When eight polymorphic microsatellite markers are genotyped in a population of 200 individuals, for example, our pipelines improved the assignment rates by over 10%, while the error rates did not rise. This study highlights the importance of incorporating resampling methods into parentage algorithms. The framework of resampling methods is applicable to other parentage software to find more potential parent–offspring relationships.
 	</li>
 	<li>
-		<b>Participants: </b><b>Hao-Ran Wu</b>, Yun-Peng Zhao*		
+		<b>PARTICUPANT: </b><b>Hao-Ran Wu</b>, Yun-Peng Zhao*		
 	</li>
 	<li>
-		<b>Supervisor: </b>Yun-Peng Zhao, Professor in College of Life Sciences, CN Zhejiang University
+		<b>SUPERVISOR: </b>Yun-Peng Zhao, Professor in College of Life Sciences, CN Zhejiang University
 	</li>
 	<li>
-		<b>Publications: </b> Research article <i>Increased assignment rates of parentage assignment obtained by resampling populations</i> in preparation; R script RCERVUS to be published online
+		<b>STATUS: </b> (a) Research Article -- in prepration; (b) R script -- in prepration.
 	</li>
 </ul>
 
 <p><b>KINNET: Reconstructing Pedigrees From the Bottom Up</b>, 2021–2022</p>
 <ul>
 	<li>
-		<b>Overview: </b> The determination of parentage of individuals based on genetic data, also known as parentage analysis, has becoming a cornerstone of research in molecular ecology. Unfortunately, many of the parentage software require prior information, such as sex and age information. Inference of parentage in a multi-generation population is rather complex. This project aims to design a R package called ‘KinNet’ which uses a mechanistic approach to reconstructing pedigrees from the bottom up
+		<b>OVERVIEW: </b> Likelihood-based parentage inference provides a powerful approach to reconstructing pedigrees, providing insights of underlying ecological and evolutionary processes. However, the existence of close relatives tends to overestimate likelihood ratios. The present study extended the likelihood statistics for any local pedigree with any codominant markers taking account of close relative effects and developed the R package KINNET, which reconstructs pedigree structures using genetic data. It promotes parentage assignment success considerably and reduces the computational cost. The program proceeds by identification and exclusion of false-positives especially those caused by close relatives such as full-siblings. Simulations show that accurate pedigree reconstruction can be achieved using 8–14 polymorphic microsatellites or less than 100 SNPs. With the presence of real-world conditions like incomplete sampling and genotyping errors, the algorithm still minimizes error rates considerably. This study provides a framework to integrate close relatives’ effects into likelihoods explicitly which helps to identify false-positives caused by close relatives and thus improves assignment success substantially.
 	</li>
 	<li>
-		<b>Participants: </b><b>Hao-Ran Wu</b>, Zheng-Zhang Zhu, Yun-Peng Zhao*		
+		<b>PARTICIPANT: </b><b>Hao-Ran Wu</b>, Zheng-Zhang Zhu, Yun-Peng Zhao*		
 	</li>
 	<li>
-		<b>Supervisor: </b>Yun-Peng Zhao, Professor in College of Life Sciences, CN Zhejiang University
+		<b>SUPERVISOR: </b>Yun-Peng Zhao, Professor in College of Life Sciences, CN Zhejiang University
 	</li>
 	<li>
-		<b>Publications: </b> Research article <i>Integrating close relative effect for likelihood–based pedigree reconstruction</i> in preparation; KINNET R package is in prepration, however a Shiny version is available at <a href="https://haoranwu.shinyapps.io/kinnetapp/">https://haoranwu.shinyapps.io/kinnetapp/</a>
+		<b>STATUS: </b> (a) Research Article -- in prepration; (b) KINNET R package -- in prepration; (c) KINNET Shiny Version -- <a href="https://haoranwu.shinyapps.io/kinnetapp/">https://haoranwu.shinyapps.io/kinnetapp/</a>
 	</li>
 </ul>
 
@@ -180,16 +180,18 @@
 <p><b>Liver Guard: Precise Therapy of Hepatocellular Carcinoma Based on Engineered Oncolytic Adenovirus</b>, 2021</p>
 <ul>
 	<li>
-		<b>Overview: </b> Oncolytic virus (OV) is a promising method to treat hepatocellular carcinoma, yet it has not been widely used clinically due to low infection efficiency, insufficient specificity, compromised intertumoral transmission and etc. Our project designed a genetically modified adenovirus using synthetic biology approach to overcome current problems with oncolytic virus. It is highly hoped that our project can give a new insight into precise oncolytic treatment of HCC
+		<b>OVERVIEW: </b> Oncolytic virus (OV) is a promising method to treat hepatocellular carcinoma, yet it has not been widely used clinically due to low infection efficiency, insufficient specificity, compromised intertumoral transmission and etc. Our project designed a genetically modified adenovirus using synthetic biology approach to overcome current problems with oncolytic virus. It is highly hoped that our project can give a new insight into precise oncolytic treatment of HCC
 	</li>
 	<li>
-		<b>Participants: </b><b>Hao-Ran Wu</b> (Leader), Zhuo Mao, Jiang-Chu Lei, Guan-Rui Huang, Lin-He Yang, Long-Shuang Hu, Ji-Ou Cheng, Yong-Ying Wang, Bo-Yan Zhang, Yi-Chen Wang, Zi-Yuan Che, Yu-Fei Huang, Xiang-Jing Chen, Ming Chen*, Fan Yang
+		<b>PARTICIPANT: </b><b>Hao-Ran Wu</b>, Zhuo Mao, Jiang-Chu Lei, Guan-Rui Huang, Lin-He Yang, Long-Shuang Hu, Ji-Ou Cheng, Yong-Ying Wang, Bo-Yan Zhang, Yi-Chen Wang, Zi-Yuan Che, Yu-Fei Huang, Xiang-Jing Chen, Ming Chen*, Fan Yang
 	</li>
 	<li>
-		<b>Supervisor: </b>Ming Chen, Professor in College of Life Sciences, CN Zhejiang University
+		<b>SOFTWARE: </b> During the course of the project, one of my work was to develop an R package 'expmeasure' for characterising the biological part kinetics. A biological part is a DNA sequence that has a special biological function, while part kienetics refers to the response of reporters (such as fluorescence) as a function of several input factors (such as temperature and concentration of activators). Currently, linear models are commonly used to build part kienetics. However, much less has been explored to test the reliability and give implications to further wet lab experiments. I introduced two summary statistics (See <a href="https://2021.igem.org/Team:ZJU-China/Measurement">this link</a> for details) and provided a roadmap for statistical-driven part characterisation, and presented the software 'expmeasure' which gives a GUI interface to detect outliers, assess errors, evaluate effects of explanatory variables, make predictions, and give implications to further experiments.
+	<li>
+		<b>SUPERVISOR: </b>Ming Chen, Professor in College of Life Sciences, CN Zhejiang University
 	</li>
 	<li>
-		<b>Publications: </b> Our work is well-documented in our wiki <a href="https://2021.igem.org/Team:ZJU-China">https://2021.igem.org/Team:ZJU-China</a>. This project has won the World Top 10, Best Therapeutics Project, Best Software Tool, Best New Basic Part, and Best Safety & Security prizes in International Genetically Engineered Machine (iGEM) Competition. During the project, one of my work was to develop an R package 'expmeasure' for biological part characterization <a href="https://2021.igem.org/Team:ZJU-China/Software">https://2021.igem.org/Team:ZJU-China/Software</a>
+		<b>STATUS: </b> (a) Published Source: <a href="https://2021.igem.org/Team:ZJU-China">https://2021.igem.org/Team:ZJU-China</a>; (b) Prizes: World Top 10, Best Therapeutics Project, Best Software Tool, Best New Basic Part, and Best Safety & Security prizes in 2021 International Genetically Engineered Machine (iGEM) Competition; (c) R Package 'expmeasure': <a href="https://2021.igem.org/Team:ZJU-China/Software">https://2021.igem.org/Team:ZJU-China/Software</a>.
 	</li>
 </ul>
 
