@@ -7,7 +7,7 @@
 		Research Member, CN Green-Light Year Youth Research – 2020–2021
 	</li>
 	<li>
-		Student Research Assistant, Institute of Botany, Chinese Academy of Sciences – 2019
+		Student Research Assistant, Institute of Botany, Chinese Academy of Sciences – Jul–Aug 2019
 	</li>
 	<li>
 		Bsc in Ecology, CN Zhejiang Univeristy – 2018–2022
@@ -187,6 +187,7 @@
 	</li>
 	<li>
 		<b>SOFTWARE: </b> During the course of the project, one of my work was to develop an R package 'expmeasure' for characterising the biological part kinetics. A biological part is a DNA sequence that has a special biological function, while part kienetics refers to the response of reporters (such as fluorescence) as a function of several input factors (such as temperature and concentration of activators). Currently, linear models are commonly used to build part kienetics. However, much less has been explored to test the reliability and give implications to further wet lab experiments. I introduced two summary statistics (See <a href="https://2021.igem.org/Team:ZJU-China/Measurement">this link</a> for details) and provided a roadmap for statistical-driven part characterisation, and presented the software 'expmeasure' which gives a GUI interface to detect outliers, assess errors, evaluate effects of explanatory variables, make predictions, and give implications to further experiments.
+	</li>
 	<li>
 		<b>SUPERVISOR: </b>Ming Chen, Professor in College of Life Sciences, CN Zhejiang University
 	</li>
@@ -199,80 +200,80 @@
 <p><b>Rethinking the Complexity and Uncertainty of Spatial Networks Applied to Forest Ecology</b>, 2021</p>
 <ul>
 	<li>
-		<b>Overview: </b> Characterizing tree spatial patterns and interactions are helpful to reveal underlying processes assembling forest communities. Spatial networks are powerful to integrate ecological processes at the cost of introducing uncertaines.  Validation methods are thus needed in order to assess whether network-based metrics can clearly identify different processes. we develop a framework to characterize spatial distribution of individual-level tree interactions based on network approaches.
+		<b>OVERVIEW: </b> Characterizing tree spatial patterns and interactions are helpful to reveal underlying processes assembling forest communities. Spatial networks are powerful to examine spatial interactions, however at the cost of introducing uncertainties. Validation methods are needed to assess if network-based metrics can identify different processes. The present study constructed three types of networks, which reflect various aspects of tree competition. Based on five spatial null models and 199 Monte-Carlo simulations, we found that the average node degree and the clustering coefficient  exhibited well performance in distinguishing different spatial ecological processes. This study highlights the importance of spatial null models used as a validation method for constructing spatial networks of individual trees.
 	</li>
 	<li>
-		<b>Participants: </b><b>Hao-Ran Wu</b>, Chen Peng, Ming Chen*
+		<b>PARTICIPANT: </b><b>Hao-Ran Wu</b>, Chen Peng, Ming Chen*
 	</li>
 	<li>
-		<b>Supervisor: </b>Ming Chen, Professor in College of Life Sciences, CN Zhejiang University
+		<b>SUPERVISOR: </b>Ming Chen, Professor in College of Life Sciences, CN Zhejiang University
 	</li>
 	<li>
-		<b>Publications: </b> Research article <i>Rethinking the Complexity and Uncertainty of Spatial Networks Applied to Forest Ecology</i> is currently in proofing stage at Scientific Reports; A website for the collection of UAV data sets <a href="http://bis.zju.edu.cn/biors/">http://bis.zju.edu.cn/biors/</a>
+		<b>STATUS: </b> (a) <a href="https://www.nature.com/articles/s41598-022-16485-9">Research article</a> published; (b) <a href="http://bis.zju.edu.cn/biors/">BioRS</a> -- A website for the collection of UAV data sets.
 	</li>
 </ul>
 
 <p><b>Effects of Island Network Structure on Plant Communities: A Case in Thousand Island Lake</b>, 2021</p>
 <ul>
 	<li>
-		<b>Overview: </b>Understanding how habitat fragmentation affects assembly of forest community is important. However, there is inconsistency with species-isolation relationship in previous studies. Limited studies have investigated the impact of topology of fragmented habitat on forest community structure. Thus, we are motivated to evaluate the relative spatial location of islands on the structure of plant community using network approaches.
+		<b>OVERVIEW: </b>Understanding how habitat fragmentation affects assembly of forest community is important. However, the controversy about species-isolation relationship has raged unabated for over half a century. Limited studies have investigated the impact of topology of fragmented habitat on forest community structure. Thus, the present study sought to evaluate the effects of spatial location of islands on the structure of plant community using network approaches. We found that species diversity in islands located in the central of spatial network tend to be higher than that in islands at the edge of network. Additionally, stepping stones in network can reduce the dissimilarity of species composition between islands.
 	</li>
 	<li>
-		<b>Participants: </b><b>Hao-Ran Wu</b>, Chen Peng, Wei-Jia Chen, Bo Yu
+		<b>PARTICIPANT: </b><b>Hao-Ran Wu</b>, Chen Peng, Wei-Jia Chen, Bo Yu
 	</li>
 	<li>
-		<b>Supervisor: </b>Ming-Jian Yu, Professor in College of Life Sciences, CN Zhejiang University
+		<b>SUPERVISOR: </b>Ming-Jian Yu, Professor in College of Life Sciences, CN Zhejiang University
 	</li>
 	<li>
-		<b>Results: </b> We found that species diversity in islands located in the central of spatial network tend to be higher than that in islands at the edge of network. Additionally, stepping stones in network can reduce the dissimilarity of species composition between islands. We concluded that islands located in the central of the networks and that are highly affected by stepping stones can have great capacity of biodiversity maintenance. Article <i>Effects of Island Network Structure on Plant Communities: A Case in Thousand Island Lake</i> is not published.
+		<b>STATUS: </b> Research article (unpublished)
 	</li>
 </ul>
 
 <p><b>Multifunctional Bioprocesses in Sustainable Engineering</b>, 2020</p>
 <ul>
 	<li>
-		<b>Overview: </b> The cultivation and utilisation of algae-bacterial system has received much more attraction due to their vital role in mitigating greenhouse effect and generating renewable energy. However, much less is known about microalgae productivity under various environmental conditions especially for temperature and light intensity. The current study develop a algal-bacterial pond model, which incorporates temperate and light effect on population growth and metabolic rate based on mass transfer and energy transfer principles, to test if algae-bacterial pond is feasible for various environmental conditions.
+		<b>OVERVIEW: </b> The cultivation and utilisation of algae-bacterial system has received much more attraction due to their vital role in mitigating greenhouse effect and generating renewable energy. However, much less is known about microalgae productivity under various environmental conditions especially for temperature and light intensity. The present study developed an algal-bacterial pond model, which incorporates temperate and light effect on population growth and metabolic rate based on mass transfer and energy transfer principles to test if algae-bacterial pond is robust to environmental fluctuations. We found that 1. The concentration of bacteria decreases with the increasing temperature; 2. Tropical climate plays a vital role in stabilising algal-bacterial dynamics and thus the overall production.
 	</li>
 	<li>
-		<b>Participants: </b><b>Hao-Ran Wu</b>, Yi-Xuan Huang, Zhi-Jian Zhou, Ruo-Tong Xu, Ai-Dong Yang*
+		<b>PARTICIPANT: </b><b>Hao-Ran Wu</b>, Yi-Xuan Huang, Zhi-Jian Zhou, Ruo-Tong Xu, Ai-Dong Yang*
 	</li>
 	<li>
-		<b>Supervisor: </b>Ai-Dong Yang, Professor in Engineering Science, Univeristy of Oxford
+		<b>SUPERVISOR: </b>Ai-Dong Yang, Professor in Engineering Science, Univeristy of Oxford
 	</li>
 	<li>
-		<b>Results: </b> Simulations in MATLAB showed that 1. The concentration of bacteria decreases with the increasing temperature. No significant correlation between the dynamics of algae and bacteria is found; 2. Tropical climate plays a vital role in stabilising algal-bacterial dynamics and thus the overall production. Research article <i>Integrated simulation of microbial growth under different climates reveals the temperature and light effetcs on algal-bacterial pond</i> is not published.
+		<b>STATUS: </b> Research article (unpublished).
 	</li>
 </ul>
 
 <p><b>Effect of Seed Dispersal on the Spatial Patterns of <i>Ginkgo Biloba</i> in Refuge Population</b>, 2020</p>
 <ul>
 	<li>
-		<b>Overview: </b>Spatial patterns of standing trees give us information about complex interactions of ecological and evolutionary processes in the forest. Numerous studies have focused on spatial point pattern analysis (SPPA) to explore the underlying mechanisms that regulate spatial patterns, yet this method is not sufficient to infer underlying processes such as seed dispersal. The present study investigated the effects of seed dispersal on spatial patterns of ginkgo trees in one of their refugee population using a combination of spatial dataset and parentage analysis.
+		<b>OVERVIEW: </b>Spatial patterns of standing trees give information about complex interactions of ecological and evolutionary processes in the forest. Numerous studies have focused on spatial point pattern analysis (SPPA) to explore the underlying mechanisms that regulate spatial patterns, yet this method is not sufficient to infer underlying processes such as seed dispersal. The present study investigated the effects of seed dispersal on spatial patterns of ginkgo trees in one of their refugee population using a combination of spatial dataset and parentage analysis. We found that: 1. 92.63% of the seed dispersal events occurred within a distance of 2000 meters, indicating dispersal limitation; 2. Nonrandom dispersal as well as dispersal limitation play a complmentary role in regulating spatial patterns in ginkgo trees.
 	</li>
 	<li>
-		<b>Participants: </b><b>Hao-Ran Wu</b>, Han-Yang Lin, He-Fan Yuan, Zhi-jian Yan, Yun-Peng Zhao*
+		<b>PARTICIPANT: </b><b>Hao-Ran Wu</b>, Han-Yang Lin, He-Fan Yuan, Zhi-jian Yan, Yun-Peng Zhao*
 	</li>
 	<li>
-		<b>Supervisor: </b>Yun-Peng Zhao, Professor in College of Life Sciences, CN Zhejiang University
+		<b>SUPERVISOR: </b>Yun-Peng Zhao, Professor in College of Life Sciences, CN Zhejiang University
 	</li>
 	<li>
-		<b>Results: </b> 1. 92.63% of the seed dispersal events occurred within a distance of 2000 meters, indicating dispersal limitation; 2. Nonrandom dispersal as well as dispersal limitation play a complmentary role in regulating spatial patterns in ginkgo trees. The research article <i>Effects of seed dispersal on spatial patterns of Ginkgo biloba in refugee population</i> is not published.
+		<b>STATUS: </b> Research article (unpublished).
 	</li>
 </ul>
 
 <p><b>A Study on the Authenticity of Forest Vegetation in Mt. Changbaishan Nature Reserve</b>, 2019–2020</p>
 <ul>
 	<li>
-		<b>Overview: </b> Ecosystem health contains multi-scale, multi-dimension, and dynamic properties. The concept of "authenticity" is thus proposed to provide an alternative way for aessessment of ecosystem health. However, little is known about hoe to quanntify ecosystem authenticity. In this study, we developed a method to quantify ecosystem authenticity and uses vegetation field meausrements in Changbai Mountain (China) as an example.
+		<b>OVERVIEW: </b> Ecosystem health contains multi-scale, multi-dimension, and dynamic properties. The concept of "authenticity" is thus proposed to provide an alternative way for aessessment of ecosystem health. However, little is known about how to quantify ecosystem authenticity. In this study, we developed a method to quantify ecosystem authenticity and uses vegetation field meausrements in Changbai Mountain (China) as an example. We found a strong correlation between four authenticity indices, indicating that aessessment of forest ecosystem needs simplication, which is helpful to promote the accuracy in predicting ecosystem health in a cost-effective way.
 	</li>
 	<li>
-		<b>Participants: </b><b>Hao-Ran Wu</b>, Ying Ding, Jian-Hao Li, Lin-Rui Zhou, Yong-Fei Bai*
+		<b>PARTICIPANT: </b><b>Hao-Ran Wu</b>, Ying Ding, Jian-Hao Li, Lin-Rui Zhou, Yong-Fei Bai*
 	</li>
 	<li>
-		<b>Supervisor: </b>Yong-Fei Bai, Professor in Institute of Botany, Chinese Academy of Sciences
+		<b>SUPERVISOR: </b>Yong-Fei Bai, Professor in Institute of Botany, Chinese Academy of Sciences
 	</li>
 	<li>
-		<b>Results: </b> We found a strong correlation between four authenticity indices, indicating that aessessment of forest ecosystem needs simplication, which is helpful to promote the accuracy in predicting ecosystem health in a cost-effective way.
+		<b>STATUS: </b> (a) Research article (unpublished); (b) Won the 3rd Prize of National College Students Life Science Competition in Shaanxi Division, China.
 	</li>
 </ul>
 
@@ -288,4 +289,42 @@
 	<li>
 		Measuring Biodiveristy, The 7th East Chine Normal Univeristy Summer School on "Methods in Ecology", Aug 23-28, 2021
 	</li>
+	<li>
+		Biology Field Trip (Coursework), Zhejiang Univeristy, May 6-19, 2021
+	</li>
 </ul>
+
+<h1>HONORS & AWARDS</h1>
+<ul>
+	<li>
+		World Top 10, Best Therapeutics Project, Best Software Tool, Best New Basic Part, and Best Safety & Security, International Genetically Engineered Machine (iGEM) Competition, Nov, 2021
+	</li>
+	<li>
+		Gold Medal (China), China International College Students’ 'Internet +' Innovation and Entrepreneurship Competition, Oct, 2020
+	</li>
+	<li>
+		3rd Prize (Shannxi Division, China), National College Students Life Science Competition, Oct, 2020
+	</li>
+	<li>
+		Zhejiang Provincial Government Scholarship, Oct, 2020
+	</li>
+	<li>
+		Gold Medal (Zhejiang, China), China International College Students’ 'Internet +' Innovation and Entrepreneurship Competition, Jun, 2020
+	</li>
+	<li>
+		2rd Prize (Zhejiang, China), Chinese College Physics Innovation (Theory) Competition, Jan, 2020
+	</li>
+	<li>
+		1st Prize, 11th Chinese College Mathematics Competition, Nov, 2019
+	</li>
+	<li>
+		The Second-Class Scholarship of Zhejiang University, Oct, 2019
+	</li>
+	<li>
+		The Zhejiang University Alumni Scholarship from Huang Hong and Wu Xiaopei, Oct, 2019
+	</li>
+	<li>
+		1st Prize (Zhejiang, China), Chinese College Calculus Competition, Jun, 2019
+	</li>
+</ul>
+
