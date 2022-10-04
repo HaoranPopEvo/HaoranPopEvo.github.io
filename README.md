@@ -59,6 +59,10 @@
 	<b>Wu, Hao-Ran</b>, Peng, Chen, Chen, Ming* (2022). Rethinking the complexity and uncertainty of spatial networks applied to forest ecology. Scientific Reports, 12, 15917. https://doi.org/10.1038/s41598-022-16485-9
 </p>
 
+
+<hr>
+
+
 <h1>PENDING</h1>
 <p>
 	..., <b>Wu, Hao-Ran</b>, ... (2022). Nature capital and nature-based solutions: Policies and practices in China and abroad. China Environment Publishing Group, Beijing (to be published).
@@ -72,6 +76,8 @@
 
 
 <hr>
+
+
 
 <h1>UNPUBLISHED MANUSCRIPTS</h1>
 <p>
@@ -286,6 +292,10 @@
 </ul>
 
 
+<hr>
+
+
+
 <h1>TRANING EXPERIENCE</h1>
 <ul>
 	<li>
@@ -301,6 +311,10 @@
 		Biology Field Trip (Coursework), Zhejiang Univeristy, May 6-19, 2021
 	</li>
 </ul>
+
+
+<hr>
+
 
 <h1>HONORS & AWARDS</h1>
 <ul>
