@@ -58,8 +58,16 @@
 <p>
 	<b>Wu, Hao-Ran</b>, Peng, Chen, Chen, Ming* (2022). Rethinking the complexity and uncertainty of spatial networks applied to forest ecology. Scientific Reports, 12, 15917. https://doi.org/10.1038/s41598-022-16485-9
 </p>
+
+<h1>PENDING</h1>
 <p>
 	..., <b>Wu, Hao-Ran</b>, ... (2022). Nature capital and nature-based solutions: Policies and practices in China and abroad. China Environment Publishing Group, Beijing (to be published).
+</p>
+<p>
+	<b>Wu, Hao-Ran</b>, Zhao, Yun-Peng*. Increased assignment rates of parentage assignment obtained by resampling populations (in prepration). Planned submission: Molecular Ecology Resources.
+</p>
+<p>
+	<b>Wu, Hao-Ran</b>, Zhu, Zheng-Zhang, Zhao, Yun-Peng*. Integrating close relative effect for likelihood–based pedigree reconstruction (in prepration). Planned submission: Methods in Ecology and Evolution.
 </p>
 
 
